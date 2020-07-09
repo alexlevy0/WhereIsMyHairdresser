@@ -23,7 +23,7 @@
   "dependencies": {
     "expo": "^19.0.0",
     "react": "16.0.0",
-    "react-native": "^0.45.1",
+    "react-native": "^0.63.0",
     "react-navigation": "^2.0.0",
     "snyk": "^1.41.1"
   },
